@@ -19,8 +19,6 @@ public class QuickChat {
      */
     public static void main(String[] args) {
         //Declarations
-        
-        inputNewMessage();
 
         SignUp newUser = new SignUp();
         LogIn existingUser = new LogIn();

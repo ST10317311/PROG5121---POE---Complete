@@ -1,0 +1,37 @@
+[
+    {
+        "Message Hash": "90:0:Didcake?",
+        "Recipient Number": "+27834557896",
+        "Sent Message": "Did you get the cake?",
+        "Flag": "Sent",
+        "Message ID": "90583607388"
+    },
+    {
+        "Message Hash": "94:0:Wheretime.",
+        "Recipient Number": "+27838884567",
+        "Sent Message": "Where are you? You are late! I have asked you to be on time.",
+        "Flag": "Stored",
+        "Message ID": "94616251520"
+    },
+    {
+        "Message Hash": "95:0:Yohoooo,gate.",
+        "Recipient Number": "+27834484567",
+        "Sent Message": "Yohoooo, I am at your gate.",
+        "Flag": "Discarded",
+        "Message ID": "95882500957"
+    },
+    {
+        "Message Hash": "09:0:It!",
+        "Recipient Number": "0838884567",
+        "Sent Message": "It is dinner time !",
+        "Flag": "Sent",
+        "Message ID": "09409032952"
+    },
+    {
+        "Message Hash": "43:0:Ok,you.",
+        "Recipient Number": "+27838884567",
+        "Sent Message": "Ok, I am leaving without you.",
+        "Flag": "Stored",
+        "Message ID": "43472265034"
+    }
+]
